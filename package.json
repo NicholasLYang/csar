@@ -1,0 +1,23 @@
+{
+  "name": "csar",
+  "version": "1.0.0",
+  "description": "A site for the modern CS course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasLYang/csar.git"
+  },
+  "author": "Nicholas Yang <nick@nicholasyang.com> (nicholasyang.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasLYang/csar/issues"
+  },
+  "homepage": "https://github.com/NicholasLYang/csar#readme",
+  "dependencies": {
+    "simple-server": "^1.1.1"
+  }
+}
